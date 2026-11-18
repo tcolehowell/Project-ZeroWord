@@ -221,6 +221,6 @@ __marimo__/
 
 # Program specific files
 master_password.txt
-valut_kdf_salt.bin
-valut_nonce.bin
-valut.bin
+vault_kdf_salt.bin
+vault_nonce.bin
+vault.bin
